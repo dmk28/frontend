@@ -17,3 +17,4 @@
 
 ## Exercício 2 - Média Aritmética 
 
+https://jsfiddle.net/0fg5L6ze/11/#&togetherjs=8CKLoNKgdz
