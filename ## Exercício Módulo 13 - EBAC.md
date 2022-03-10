@@ -15,6 +15,13 @@
 9. Leva a cabra pro outro lado.
 10. Fim.
 
+
+## Alternativo: 
+
+1. Levar a Alfafa
+2. Levar o lobo
+3. Levar a cabra ao final
+Razão: lobo e alfafa podem ficar no mesmo lado sem supervisão, a cabra não pode ficar com a alfafa ou o lobo ao lado.
 ## Exercício 2 - Média Aritmética 
 
 https://jsfiddle.net/0fg5L6ze/11/#&togetherjs=8CKLoNKgdz
